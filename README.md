@@ -1,4 +1,4 @@
-# MESSAGE ENCRYPTION
+<img width="1920" height="1080" alt="message encrption img" src="https://github.com/user-attachments/assets/1cb76902-f905-431a-810e-abb23f36e127" /># MESSAGE ENCRYPTION
 
 A decentralized smart contract system for secure blockchain communication
 
@@ -498,4 +498,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 [⭐ Star this repository](https://github.com/yourusername/MESSAGE_ENCRYPTION) | [🐛 Report Bug](https://github.com/yourusername/MESSAGE_ENCRYPTION/issues) | [💡 Request Feature](https://github.com/yourusername/MESSAGE_ENCRYPTION/issues)
 
-</div>
+</div><img width="1920" height="1080" alt="Screenshot (305)" src="https://github.com/user-attachments/assets/ab982c47-56b2-4c5a-b838-1602c357fe0f" />
+
+
+
